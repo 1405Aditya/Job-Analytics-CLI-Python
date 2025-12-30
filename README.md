@@ -59,7 +59,10 @@ pip install pandas numpy matplotlib
 4. Run the CLI tool
 python main.py
 
-📁 Dataset
+---
+
+## 📁 Dataset
+
 The project uses a job listing dataset containing information such as:
 - Job title
 - Company
@@ -69,6 +72,8 @@ The project uses a job listing dataset containing information such as:
 - Skills required
 (Dataset used for educational and analytical purposes.)
 
-🏢 Internship Reference
+---
+
+## 🏢 Internship Reference
 This project was developed during the **Python Development Internship** at **CS Vision**, where hands-on training was provided in Python programming, data analysis, and visualization techniques using real-world datasets.
 
