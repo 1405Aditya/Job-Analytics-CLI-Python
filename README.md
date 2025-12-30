@@ -48,52 +48,27 @@ This project was developed as part of the **Python Development Internship at CS 
 
 ## 🧪 How to Run the Project
 1. Clone the repository  
-   ```bash
-   
    git clone https://github.com/your-username/job-analytics-cli-python.git
-Navigate to the project directory
-
-bash
-Copy code
+   
+2. Navigate to the project directory
 cd job-analytics-cli-python
-Install required libraries
 
-bash
-Copy code
+3. Install required libraries
 pip install pandas numpy matplotlib
-Run the CLI tool
 
-bash
-Copy code
+4. Run the CLI tool
 python main.py
+
 📁 Dataset
 The project uses a job listing dataset containing information such as:
-
-Job title
-
-Company
-
-Location
-
-Experience
-
-Salary
-
-Skills required
-
+- Job title
+- Company
+- Location
+- Experience
+- Salary
+- Skills required
 (Dataset used for educational and analytical purposes.)
 
 🏢 Internship Reference
-This project was developed during the Python Development Internship at CS Vision, where hands-on training was provided in Python programming, data analysis, and visualization techniques using real-world datasets.
+This project was developed during the **Python Development Internship** at **CS Vision**, where hands-on training was provided in Python programming, data analysis, and visualization techniques using real-world datasets.
 
-🚀 Future Enhancements
-Add advanced visualizations
-
-Integrate machine learning for job trend prediction
-
-Export reports in PDF/Excel formats
-
-Add user authentication and role-based access
-
-📜 License
-This project is intended for educational and learning purposes.
