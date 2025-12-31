@@ -47,10 +47,10 @@ This project was developed as part of the **Python Development Internship at CS 
 ---
 
 ## 🧪 How to Run the Project
-1. Clone the repository  
+1. Clone the repository (Replace `your-username` with your GitHub username while cloning)  
    ```bash
    git clone https://github.com/your-username/job-analytics-cli-python.git
-   
+
 2. Navigate to the project directory
    ```bash
    cd job-analytics-cli-python
