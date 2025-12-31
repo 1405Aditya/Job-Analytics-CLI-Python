@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 The Job Analytics CLI Tool is a command-line based data analytics application developed to analyze job listing datasets. The tool focuses on cleaning raw job data, performing statistical analysis, generating visual insights, and exporting analytical reports. It helps understand job market trends and supports data-driven decision-making.
 
-This project was developed as part of the **Python Development Internship at CS Vision**, where the focus was on applying Python and data analytics concepts to real-world datasets.
+This project was developed as part of the **Python Development Internship at CS Vision**, where hands-on training was provided in Python programming, data analysis, and visualization techniques using real-world datasets.
 
 ---
 
@@ -48,16 +48,20 @@ This project was developed as part of the **Python Development Internship at CS 
 
 ## 🧪 How to Run the Project
 1. Clone the repository  
+   ```bash
    git clone https://github.com/your-username/job-analytics-cli-python.git
    
 2. Navigate to the project directory
-cd job-analytics-cli-python
+   ```bash
+   cd job-analytics-cli-python
 
 3. Install required libraries
-pip install pandas numpy matplotlib
+   ```bash
+   pip install pandas numpy matplotlib
 
 4. Run the CLI tool
-python main.py
+   ```bash
+   python main.py
 
 ---
 
@@ -70,10 +74,3 @@ The project uses a job listing dataset containing information such as:
 - Experience
 - Salary
 - Skills required
-(Dataset used for educational and analytical purposes.)
-
----
-
-## 🏢 Internship Reference
-This project was developed during the **Python Development Internship** at **CS Vision**, where hands-on training was provided in Python programming, data analysis, and visualization techniques using real-world datasets.
-
